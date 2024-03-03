@@ -1,1 +1,1 @@
-# Envia tu solucion en formato <u>username_problemname.*</u>
+## Envia tu solucion en formato <ins>username-problem.*</ins>
